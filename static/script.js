@@ -1,4 +1,4 @@
-/*eslint-disable no-unused-vars, no-extra-semi*/
+
 function loadTasks() {
   fetch('tasks')
   .then(function(response) {

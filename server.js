@@ -1,4 +1,4 @@
-/*eslint-disable unknown-require, unknown-require, no-unused-params, no-undef, no-use-before-define, eqeqeq*/
+
 var express = require('express');
 
 var app = express();

@@ -5,7 +5,7 @@
   "main": "hello.js",
   "dependencies": {
     "express": "^4.16.1",
-    "mongodb": "^2.2.31"
+    "mongodb": "^3.6.1"
   },
   "devDependencies": {},
   "scripts": {
